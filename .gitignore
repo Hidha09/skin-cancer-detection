@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Unused models
+caps_model.h5
+resnet_model.h5
+vgg_model.h5
+vgg_model.weights.h5
+
+# Dataset
+dataset.zip
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+processed_skin/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
