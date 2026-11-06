@@ -110,6 +110,19 @@ python app.py
 - Enhance prediction accuracy and generalisation.
 - Develop a more comprehensive user interface.
 
+
+## Application Screenshots
+
+### Application Interface
+![Skin Cancer Detection Application](screenshots/home.png)
+
+### Model Prediction
+![Skin Cancer Detection Prediction](screenshots/prediction.png)
+
+The application displays individual predictions from VGG16,
+CapsNet, and ResNet, followed by a final ensemble classification.
+
+
 ## Disclaimer
 
 This project is developed for educational and research purposes. It is not intended to replace professional medical diagnosis or clinical evaluation.
